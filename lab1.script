@@ -1,0 +1,29 @@
+Script started on 2016年03月08日 (週二) 09時08分02秒
+]0;F74046399@2015cpp: ~F74046399@2015cpp:~$ whoami.[K;pwd
+F74046399
+/home/F74046399
+]0;F74046399@2015cpp: ~F74046399@2015cpp:~$ git config -l
+user.name=F74046399
+user.email=shelly7526@gmail.com
+]0;F74046399@2015cpp: ~F74046399@2015cpp:~$ git clone https://github.com/F74046399/lab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': F74046399
+Password for 'https://F74046399@github.com': 
+error: The requested URL returned error: 403 while accessing https://github.com/F74046399/lab1.git/info/refs
+fatal: HTTP request failed
+]0;F74046399@2015cpp: ~F74046399@2015cpp:~$ git clone https://github.com/F74046399/lab1.git[1P://github.com/F74046399/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+Username for 'http://github.com': F74046399
+Password for 'http://F74046399@github.com': 
+error: The requested URL returned error: 403 while accessing http://github.com/F74046399/lab1.git/info/refs
+fatal: HTTP request failed
+]0;F74046399@2015cpp: ~F74046399@2015cpp:~$ git clone http://github.com/F74046399/lab1.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Khttps://github.com/F74046399/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74046399@2015cpp: ~F74046399@2015cpp:~$ git clone https://github.com/F74046399/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74046399@2015cpp: ~F74046399@2015cpp:~$ git clone https://github.com/F74046399/lab1.git[1P://github.com/F74046399/lab1.gits://github.com/F74046399/lab1.git[1P://github.com/F74046399/lab1.gits://github.com/F74046399/lab1.git[1P://github.com/F74046399/lab1.gits://github.com/F74046399/lab1.git[1P://github.com/F74046399/lab1.gits://github.com/F74046399/lab1.git[1P://github.com/F74046399/lab1.gits://github.com/F74046399/lab1.git[1P://github.com/F74046399/lab1.gits://github.com/F74046399/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74046399@2015cpp: ~F74046399@2015cpp:~$ exit
+
+Script done on 2016年03月08日 (週二) 09時33分43秒
