@@ -1,0 +1,2 @@
+compilation: g++ -o qb qb.cpp
+Execution:./qb
